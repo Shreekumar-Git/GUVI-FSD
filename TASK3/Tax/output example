@@ -1,0 +1,13 @@
+Enter Employee Details:
+Employee ID: 12
+Name: Maha
+Monthly Salary: 50000
+
+Enter Product Details:
+Product ID: 23
+Price: 1500
+Quantity: 2
+
+--- Tax Calculations ---
+Income Tax for employee Maha (Yearly Salary ₹600000.0): ₹63000.0
+Sales Tax for product ID 23 (Unit Price ₹1500.0): ₹105.0
