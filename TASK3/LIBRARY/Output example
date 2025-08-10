@@ -1,0 +1,14 @@
+--- Library Menu ---
+1. Add Book
+2. Replace Book
+3. Display All Books
+4. Exit
+Enter your choice: 1
+Enter Book ID: 1
+Enter Title: Harry Potter
+Enter Author: J.K.Rowling
+Book added successfully.
+
+Enter your choice: 3
+Books in Library:
+ID: 1, Title: Harry Potter, Author: J.K.Rowling, Available: true
