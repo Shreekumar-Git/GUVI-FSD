@@ -1,0 +1,20 @@
+--- Stack Menu ---
+1. Push element
+2. Pop element
+3. Check if stack is empty
+4. Exit
+Enter your choice: 1
+Enter integer to push: 10
+10 pushed to stack.
+
+--- Stack Menu ---
+Enter your choice: 3
+Stack is not empty. Size: 1
+
+--- Stack Menu ---
+Enter your choice: 2
+10 popped from stack.
+
+--- Stack Menu ---
+Enter your choice: 3
+Stack is empty.
