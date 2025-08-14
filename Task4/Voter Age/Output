@@ -1,0 +1,16 @@
+Enter Voter ID: 15
+Enter Name: sujith
+Enter Age: 25
+
+--- Voter Details ---
+Voter ID: 15
+Name: sujith
+Age: 25
+-------------------------------
+
+InvalidAge
+Enter Voter ID: 176
+Enter Name: Homa
+Enter Age: 16
+Exception: invalid age for voter
+
