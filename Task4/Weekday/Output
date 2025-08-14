@@ -1,0 +1,7 @@
+Enter day position (0 for Sunday, 6 for Saturday): 3
+Day is: Wednesday
+-----------------------------------------------------
+
+Invalid
+Enter day position (0 for Sunday, 6 for Saturday): 10
+Error: Please enter a valid index between 0 and 6.
