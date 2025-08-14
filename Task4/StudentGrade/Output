@@ -1,0 +1,18 @@
+--- Menu ---
+1. Add Student
+2. Remove Student
+3. Display Student Grade
+4. Exit
+Enter your choice: 1
+Enter student name: shree
+Enter student grade: 85
+Student added: shree -> 85
+
+--- Menu ---
+1. Add Student
+2. Remove Student
+3. Display Student Grade
+4. Exit
+Enter your choice: 3
+Enter student name to display grade: shree
+John's grade: 85
