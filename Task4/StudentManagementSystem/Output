@@ -1,0 +1,27 @@
+VALID OUTPUT
+Enter Roll No: 1
+Enter Name: Mahalakshmi
+Enter Age: 20
+Enter Course: B.Tech
+
+--- Student Details ---
+Roll No: 101
+Name: Mahalakshmi
+Age: 20
+Course: B.Tech
+-----------------------------------
+
+INVALID AGE
+Enter Roll No: 25
+Enter Name: Poorna
+Enter Age: 22
+Enter Course: Python
+Exception: Age should be between 15 and 21.
+-------------------------------------
+
+INVALID NAME
+Enter Roll No: 12
+Enter Name: Skm9
+Enter Age: 19
+Enter Course: JAVA
+Exception: Name is not valid: only alphabets and spaces are allowed.
